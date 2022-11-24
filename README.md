@@ -1,4 +1,4 @@
-# Convert pdf to text
+# Pystring Convert pdf to text
 
 This python project is to help you convert your PDFs files into text files.
 
@@ -7,7 +7,7 @@ This python project is to help you convert your PDFs files into text files.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install -r requirement
+pip install -r requirements.txt
 ```
 
 ## Usage
